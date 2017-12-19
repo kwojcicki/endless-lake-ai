@@ -1,0 +1,2 @@
+wxPython==4.0.0b1
+PyUserInput=0.1.11
